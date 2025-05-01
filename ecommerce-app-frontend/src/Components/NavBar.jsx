@@ -4,7 +4,7 @@ export default function NavBar(){
     
     return (
         <>
-            <h1>This is a navbar i guess..</h1>
+            <h1>This is a navbar i guess...</h1>
         </>
     )
 }
