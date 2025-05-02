@@ -1,0 +1,19 @@
+.navbar-principal-container {
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+
+    .links-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navbar-link {
+        margin: 0px 20px;
+    }
+
+    .temp-logo {
+        font-size: large;
+    }
+}
